@@ -1,6 +1,7 @@
-add some textin this file
+feature-2
 
 add line 2
 
-add line 3
+Hello
 
+add something different
