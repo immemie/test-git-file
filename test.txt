@@ -1,3 +1,6 @@
 add some textin this file
 
 add line 2
+
+add line 3
+
